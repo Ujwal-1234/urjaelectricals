@@ -1,38 +1,29 @@
-.App {
-  text-align: center;
+.custom-img {
+  background-image: url("../../pc/assets/bg/3.png");
+}
+.custom-img-2 {
+  background-image: url("../../pc/assets/bg/1.png");
+}
+.custom-img-3 {
+  background-image: url("../../pc/assets/bg/23.jpg");
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+*::-webkit-scrollbar{
+  display: none;
+  scroll-behavior: smooth;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.card{
+  max-height: 200px;
+  transition: max-height 0.50s ease-out;
+  overflow: hidden;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.card:hover{
+  max-height: 500px;
+  transition: max-height 0.50s ease-in;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+a.active {
+  color: #000; /* Set your desired active link color */
+  border: solid 1px black;
+  border-color: #000; /* Set your desired active link border color */
+  font-weight: bold; /* Add any styling you want for active links */
 }
