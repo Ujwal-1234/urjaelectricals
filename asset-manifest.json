@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/urjaelectricals/static/css/main.40316ef5.css",
-    "main.js": "/urjaelectricals/static/js/main.db8283d5.js",
+    "main.css": "/urjaelectricals/static/css/main.af34d8da.css",
+    "main.js": "/urjaelectricals/static/js/main.930d36f1.js",
     "static/js/787.1b271f13.chunk.js": "/urjaelectricals/static/js/787.1b271f13.chunk.js",
     "static/media/1.png": "/urjaelectricals/static/media/1.427ae1493013bc501674.png",
-    "static/media/3.png": "/urjaelectricals/static/media/3.a830196d4796c66b541b.png",
+    "static/media/3.jpg": "/urjaelectricals/static/media/3.d30ea6ab69c86b3ac077.jpg",
     "static/media/23.jpg": "/urjaelectricals/static/media/23.2ecae2363e93935e8cdf.jpg",
     "static/media/pl.png": "/urjaelectricals/static/media/pl.05373d3b0c1b41f9e811.png",
     "index.html": "/urjaelectricals/index.html",
-    "main.40316ef5.css.map": "/urjaelectricals/static/css/main.40316ef5.css.map",
-    "main.db8283d5.js.map": "/urjaelectricals/static/js/main.db8283d5.js.map",
+    "main.af34d8da.css.map": "/urjaelectricals/static/css/main.af34d8da.css.map",
+    "main.930d36f1.js.map": "/urjaelectricals/static/js/main.930d36f1.js.map",
     "787.1b271f13.chunk.js.map": "/urjaelectricals/static/js/787.1b271f13.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40316ef5.css",
-    "static/js/main.db8283d5.js"
+    "static/css/main.af34d8da.css",
+    "static/js/main.930d36f1.js"
   ]
 }
